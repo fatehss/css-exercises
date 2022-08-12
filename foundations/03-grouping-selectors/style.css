@@ -1,0 +1,16 @@
+
+.bb, .yb{
+
+	font-size: 28px;
+	font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.bb {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+.yb {
+	background-color: yellow;
+}
+
